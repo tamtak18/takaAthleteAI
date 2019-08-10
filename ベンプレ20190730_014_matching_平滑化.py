@@ -15,7 +15,7 @@ import csv
 
 def main():
     mass = 50 #プレートの重さ(kg)
-    real_height = 1.8 #画面の縦方向の実寸（m)
+    real_height = 1.9 #画面の縦方向の実寸（m)
 
     #threshold = 0.8 #画像マッチングの閾値(最初0.68)
     rSize = 1 #白塗りのサイズ（templateの何倍？)
